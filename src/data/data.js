@@ -60,7 +60,7 @@ export const itemData = [
     {id: 63, model: 'CF233A (№33A)', priceUSD: 3.54, discription: 'CF233A (№33A) HP LaserJet M105/ M106/ M133/ M134'},
     {id: 64, model: 'CF 234A (№34A-драм-картридж)', priceUSD: 21.54, discription: 'CF 234A (№34A-драм-картридж) HP LaserJet M105/ M106/ M133/ M134'},
     {id: 65, model: 'CF230X/051H', priceUSD: 10, discription: 'CF230X/051H HP LaserJet M203d/ M203dn/ M203dw / MFP m227fdn/ MFP m227fdw/ MFP m227sdn/ MFP m227d'},
-    {id: 66, model: 'ML1610/2010/Xerox 3117', priceUSD: 13.08, discription: 'ML1610/2010/Xerox 3117 Epson ML1610/2010 / Xerox 3117 Samsung ML-1610/1615/1650'},
+    {id: 66, model: 'ML1610/2010/Xerox 3117', priceUSD: 13.08, discription: 'ML1610/2010/Xerox 3117 Samsung ML1610/2010 / Xerox 3117 Samsung ML-1610/1615/1650'},
     {id: 67, model: 'ML1660/D104S', priceUSD: 11.54, discription: 'ML1660/D104S Samsung ML-1660, 1665, 1667, 1670, 1860, 1865, 1865W, 1867; SCX 3200, 3205'},
     {id: 68, model: 'MLT D101S', priceUSD: 9.62, discription: 'MLT D101S Samsung ML-2160/ML-2165/ML-2167/ML-2168/ML-2165W/ML-2168W/SCX-3400/SCX-3400F/SCX-3405/SCX-3405F/SCX-3405W/SCX-3405FW/SCX-3407'},
     {id: 69, model: 'SCX4824/209L', priceUSD: 14.62, discription: 'SCX4824/209L SCX-4824FN, SCX-4828FN, ML-2855ND'},
