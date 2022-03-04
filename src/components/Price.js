@@ -10,7 +10,7 @@ const { Search } = Input;
 
 function Price() {
   const [product, setProduct] = useState(null)
-  const [rate, setRate] = useState(2.6)
+  const [rate, setRate] = useState(3.6)
   const [inputValue, setValue] = useState('')
   const [shown, setShown] = useState(true)
   const [showUSD, setShowUSD] = useState(false)
